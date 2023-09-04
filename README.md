@@ -4,7 +4,11 @@
 - 🌱 I completed the Yandex Practicum Data Science course in August 2023. Basic knowledge was obtained during the course: **Python, Jupyter Notebook, Pandas, Seaborn, ydata-profiling, Matplotlib, NumPy, scipy, Scikit-learn, XGBoost, LightGBM, optuna, PipeLine, Keras, BERT, tf-idf, , nltk, spacy, SQL, SQLAlchemy**.
 - 📫 How to reach me: e_mail: alexey.tomaschevsky@yandex.ru, [Telegram](https://t.me/TomashA1980)
 
+### Привет! Меня зовут Алексей Игоревич Томашевский - TomashA1980. 👋
 
+- ⚡ Забавный файкт: Я возвращаюсь в IT после 20 летнего перерыва. **Date science** мой Путь.
+- 🌱 Я закончил курс Яндекса Практику по Data Science course в Августе 2023. Во время курса на базовом уровне изучил: **Python, Jupyter Notebook, Pandas, Seaborn, ydata-profiling, Matplotlib, NumPy, scipy, Scikit-learn, XGBoost, LightGBM, optuna, PipeLine, Keras, BERT, tf-idf, , nltk, spacy, SQL, SQLAlchemy**.
+- 📫 Связаться со мной можно так: e_mail: alexey.tomaschevsky@yandex.ru, [Telegram](https://t.me/TomashA1980)
 <!--
 **TomashA1980/TomashA1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
