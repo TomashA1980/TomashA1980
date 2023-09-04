@@ -1,7 +1,8 @@
 ### Hi there, I'm Alexey I. Tomashevskiy - TomashA1980. 👋
 
-I am returning to the IT world after a 20-year hiatus. Date science is my way.
-I completed the Yandex Practicum Data Science course in August 2023. Basic knowledge was obtained during the course: Python, 
+- ⚡ Fun fact: I am returning to the IT world after a 20-year hiatus. **Date science** is my way.
+- 🌱 I completed the Yandex Practicum Data Science course in August 2023. Basic knowledge was obtained during the course: **Python, Jupyter Notebook, Pandas, Seaborn, ydata-profiling, Matplotlib, NumPy, scipy, Scikit-learn, XGBoost, LightGBM, optuna, PipeLine, Keras, BERT, tf-idf, , nltk, spacy, SQL, SQLAlchemy**.
+- 📫 How to reach me: [e-mail](alexey.tomaschevsky@yandex.ru), [Telegram](https://t.me/TomashA1980)
 
 
 <!--
